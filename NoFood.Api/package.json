@@ -2,7 +2,7 @@
   "name": "nofood.api",
   "version": "1.0.0",
   "description": "Api feita em nodeJs para utilização do nosso aplicativo NoFood",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
